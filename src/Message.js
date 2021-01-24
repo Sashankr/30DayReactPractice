@@ -1,7 +1,8 @@
 import React from "react"
+import "./index.css"
 
-const Message = ()=>{
-  return(
+const Message = () => {
+  return (
     <>
       <button>Click Me!</button>
     </>
